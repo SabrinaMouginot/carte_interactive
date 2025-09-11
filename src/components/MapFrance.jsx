@@ -71,8 +71,8 @@ export default function MapFrance() {
 
   return (
     <div style={{ padding: '1rem' }}>
-      <h1>Carte de France</h1>
-      <p style={{ color: '#666' }}>La carte reste toujours entièrement visible et s’adapte à la largeur.</p>
+      <h1>Carte de France intéractive</h1>
+      {/* <p style={{ color: '#666' }}>La carte reste toujours entièrement visible et s’adapte à la largeur.</p> */}
 
       <div
         ref={wrapperRef}

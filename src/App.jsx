@@ -6,8 +6,8 @@ import MapFrance from './components/MapFrance.jsx';
 function Home() {
 return (
 <div style={{ padding: '1rem' }}>
-<h1>Accueil</h1>
-<p>Bienvenue ! Va sur l’onglet « Carte » pour voir la carte interactive.</p>
+<h1>Bonjour!</h1>
+{/* <p>Bienvenue ! Va sur l’onglet « Carte » pour voir la carte interactive.</p> */}
 </div>
 );
 }
